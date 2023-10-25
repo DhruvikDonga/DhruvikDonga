@@ -21,7 +21,7 @@ I'm Dhruvik, a passionate Software Engineer with a focus on building real-time s
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=prs,issues,contribs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruvikDonga&show_icons=true&hide=prs,issues,contribs)
 
 ## 📫 Let's Connect
 
