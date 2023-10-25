@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**DhruvikDonga/DhruvikDonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dhruvik, a passionate Software Engineer with a focus on building real-time systems using Golang.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 Currently working on: Enterprise Network montitoring system at Jeavio
+- 🎮 Running a game server developed in Golang with text based games hosted on it
+- 🌱 Learning: Golang , Message Queues , Cloud native technologies
+- 👯‍♂️ Looking to collaborate on: Open-source projects, particularly those involving Golang around real time systems , cloud native projects
+- 💬 Ask me about: Anything related to Golang, real-time systems, python or Websockets
+
+## 🛠️ Tech Stack
+
+- Golang
+- Python
+- Vuejs
+- Docker
+- AWS
+- MySQL
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=prs,issues,contribs)
+
+## 📫 Let's Connect
+
+- LinkedIn: [Dhruvik Donga](https://www.linkedin.com/in/dhruvik-donga-9363a0172/)
+- Portfolio: [Portfolio](https://dhruvikdonga.github.io/)
+
+Feel free to explore my repositories, and don't hesitate to reach out for collaboration or just a friendly chat! 🌟
+
