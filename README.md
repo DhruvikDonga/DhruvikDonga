@@ -4,7 +4,7 @@ I'm Dhruvik, a passionate Software Engineer with a focus on building real-time s
 
 ## 🚀 About Me
 
-- 🔧 Currently working on: Observabilty platform Middleware.io
+- 🔧 Currently working at: Infocusp Innovations
 - 🌱 Learning: Golang , Message Queues , Cloud native technologies
 - 👯‍♂️ Looking to collaborate on: Open-source projects, particularly those involving Golang around real time systems , cloud native projects
 - 💬 Ask me about: Anything related to Golang, real-time systems, python or Websockets
@@ -17,6 +17,7 @@ I'm Dhruvik, a passionate Software Engineer with a focus on building real-time s
 - Docker
 - AWS
 - MySQL
+- K8s
 
 ## 📈 GitHub Stats
 
